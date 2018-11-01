@@ -1,0 +1,1 @@
+Person(id=2, name=sasha, phone=+380974048787)
